@@ -1,0 +1,485 @@
+{
+ "bom": [
+  {
+   "section": "Upper",
+   "partName": "FLYKNIT BOOTIE (MAIN UPPER)",
+   "material": "Flyknit, existing pullover material (proto)",
+   "supplier": "Factory in-house",
+   "color": "Black/White/Iron Grey",
+   "aiSuggested": false,
+   "comments": "Callout [1]; use existing pullover materials for first proto."
+  },
+  {
+   "section": "Upper",
+   "partName": "BOOTIE COLLAR / INNER SLEEVE",
+   "material": "Flyknit (OPT.1)",
+   "supplier": "Factory in-house",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Callout [3] OPT.1; OPT.2 Dongjin DJT-6242 Veletta Span CDP — resolve."
+  },
+  {
+   "section": "Upper",
+   "partName": "RIP-STOP TPU SHROUD (THROAT)",
+   "material": "SSF TPU TEX-1 (SY-SFT-01), foil + coating (OPT.1)",
+   "supplier": "Sukyoung Textile",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Callout [2]; 3 options listed — resolve to single spec."
+  },
+  {
+   "section": "Upper",
+   "partName": "SWOOSH (LATERAL)",
+   "material": "HF weld TPU, Smiley-Cygni, 1.0mm",
+   "supplier": "San Fang",
+   "color": "White",
+   "aiSuggested": false,
+   "comments": "Callout [4]; HF-welded."
+  },
+  {
+   "section": "Upper",
+   "partName": "SWOOSH (MEDIAL)",
+   "material": "HF weld TPU, Smiley-Cygni, 1.0mm",
+   "supplier": "San Fang",
+   "color": "White",
+   "aiSuggested": false,
+   "comments": "Callout [4]; HF-welded."
+  },
+  {
+   "section": "Upper",
+   "partName": "HOLOGRAM FILM DETAIL",
+   "material": "Duragon Stretch, .23mm",
+   "supplier": "TBD — sourcing",
+   "color": "Iron Grey",
+   "aiSuggested": false,
+   "comments": "Callout [5]; RP new hologram."
+  },
+  {
+   "section": "Upper",
+   "partName": "HOLOGRAM TAPE",
+   "material": "Duragon Stretch, .23mm",
+   "supplier": "TBD — sourcing",
+   "color": "Iron Grey",
+   "aiSuggested": false,
+   "comments": "Callout [12]."
+  },
+  {
+   "section": "Upper",
+   "partName": "HOLOGRAM TAPE 6MM (LATERAL)",
+   "material": "Duragon Stretch, .23mm, 6mm wide",
+   "supplier": "TBD — sourcing",
+   "color": "Iron Grey",
+   "aiSuggested": false,
+   "comments": "Callout [13]."
+  },
+  {
+   "section": "Upper",
+   "partName": "HOLOGRAM TAPE 6MM (MEDIAL)",
+   "material": "Duragon Stretch, .23mm, 6mm wide",
+   "supplier": "TBD — sourcing",
+   "color": "Iron Grey",
+   "aiSuggested": false,
+   "comments": "Callout [14]."
+  },
+  {
+   "section": "Upper",
+   "partName": "SYNTHETIC REINFORCEMENT (LATERAL)",
+   "material": "Hirun D, .09mm (Nike Mat #92045)",
+   "supplier": "Baiksan",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Callout [9]; high-wear zone."
+  },
+  {
+   "section": "Upper",
+   "partName": "SYNTHETIC REINFORCEMENT (MEDIAL)",
+   "material": "Hirun D, .09mm (Nike Mat #92045)",
+   "supplier": "Baiksan",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Callout [10]."
+  },
+  {
+   "section": "Upper",
+   "partName": "LAMINATED CABLE PADS",
+   "material": "Laminated pads incorporated into Flyknit (proto)",
+   "supplier": "Factory in-house",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Callout [11]; per pullovers for first proto."
+  },
+  {
+   "section": "Upper",
+   "partName": "LITTLEFOOT LACE CABLE",
+   "material": "Stretch cord, per current proto",
+   "supplier": "TBD — sourcing",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Callout [6]; Alpha 4 lacing mechanism."
+  },
+  {
+   "section": "Upper",
+   "partName": "STRETCH CORD (SECONDARY)",
+   "material": "Stretch cord, per current proto",
+   "supplier": "TBD — sourcing",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Callout [8]."
+  },
+  {
+   "section": "Upper",
+   "partName": "MOLDED RUBBER DETAIL",
+   "material": "Molded rubber, see Details page",
+   "supplier": "TBD — sourcing",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Callout [7]; detail pods."
+  },
+  {
+   "section": "Upper",
+   "partName": "CORD-RELEASE LOGO (LITTLEFOOT TRIANGLE)",
+   "material": "HF weld TPU film",
+   "supplier": "TBD — sourcing",
+   "color": "White",
+   "aiSuggested": true,
+   "comments": "Branding callout; cable release mark — method inferred."
+  },
+  {
+   "section": "Upper",
+   "partName": "HEEL PULL TAB",
+   "material": "Woven tab / webbing w/ screen graphic",
+   "supplier": "TBD — sourcing",
+   "color": "Black",
+   "aiSuggested": true,
+   "comments": "Littlefoot tab; material inferred."
+  },
+  {
+   "section": "Upper",
+   "partName": "ALPHA SCREENPRINT (LATERAL)",
+   "material": "Screenprint ink on Flyknit",
+   "supplier": "Factory in-house",
+   "color": "White",
+   "aiSuggested": false,
+   "comments": "Branding; quarter placement."
+  },
+  {
+   "section": "Upper",
+   "partName": "ALPHA SCREENPRINT (MEDIAL)",
+   "material": "Screenprint ink on Flyknit",
+   "supplier": "Factory in-house",
+   "color": "White",
+   "aiSuggested": false,
+   "comments": "Branding; quarter placement."
+  },
+  {
+   "section": "Upper",
+   "partName": "CENTER-SEAM REINFORCEMENT TAPE",
+   "material": "Nylon/TPU seam tape, hot-melt",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — center-seam construction needs seam reinforcement."
+  },
+  {
+   "section": "Upper",
+   "partName": "SWOOSH BACKER / LAMINATION",
+   "material": "Hot-melt film, low-temp",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — backer to bond HF-weld TPU swoosh to Flyknit."
+  },
+  {
+   "section": "Upper",
+   "partName": "COLLAR FOAM",
+   "material": "PU foam, molded",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — collar comfort foam for bootie."
+  },
+  {
+   "section": "Upper",
+   "partName": "COLLAR LINING",
+   "material": "Brushed tricot / knit lining",
+   "supplier": "TBD — sourcing",
+   "color": "Black",
+   "aiSuggested": true,
+   "comments": "Inferred — lining over collar foam."
+  },
+  {
+   "section": "Upper",
+   "partName": "HEEL COUNTER",
+   "material": "Thermoplastic counter, molded",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — structural heel counter not drawn on board."
+  },
+  {
+   "section": "Upper",
+   "partName": "TOE STIFFENER",
+   "material": "Thermoplastic toe puff",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — toe structure for lasted bootie."
+  },
+  {
+   "section": "Upper",
+   "partName": "REINFORCEMENT BACKER (HIRUN D ZONES)",
+   "material": "Hot-melt film backer",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — bonding film under Baiksan Hirun D reinforcements."
+  },
+  {
+   "section": "Upper",
+   "partName": "STROBEL BOARD",
+   "material": "Strobel textile, knit/nonwoven",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — bootie closed at bottom for drop-in midsole seat."
+  },
+  {
+   "section": "Upper",
+   "partName": "LASTING / GUSSET TAPE",
+   "material": "Reinforcement tape",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — bootie lasting reinforcement."
+  },
+  {
+   "section": "Midsole",
+   "partName": "DROP-IN MIDSOLE",
+   "material": "Molded foam drop-in (new at FT)",
+   "supplier": "Factory in-house",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Construction; seats into lasted bootie — durometer TBD."
+  },
+  {
+   "section": "Midsole",
+   "partName": "DROP-IN MIDSOLE TOP CLOTH",
+   "material": "Textile lamination on foam",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — top surface for drop-in interface."
+  },
+  {
+   "section": "Outsole",
+   "partName": "OUTSOLE PLATE (CLEATED)",
+   "material": "Injected TPU plate, AZZ439",
+   "supplier": "Evertech",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Callout [15]; NFL cleated bottom — confirm AZZ439."
+  },
+  {
+   "section": "Outsole",
+   "partName": "MOLDED RUBBER DETAIL PODS",
+   "material": "Molded rubber, see Details page",
+   "supplier": "TBD — sourcing",
+   "color": "Black",
+   "aiSuggested": false,
+   "comments": "Construction; detail pods on bottom unit."
+  },
+  {
+   "section": "Outsole",
+   "partName": "PLATE-TO-BOOTIE CEMENT",
+   "material": "PU/primer cement system",
+   "supplier": "Factory in-house",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Inferred — bottom unit attach to lasted bootie."
+  },
+  {
+   "section": "Sockliner",
+   "partName": "SOCKLINER / INSOLE",
+   "material": "Molded EVA sockliner",
+   "supplier": "TBD — sourcing",
+   "color": "Black",
+   "aiSuggested": true,
+   "comments": "Inferred — standard sockliner; not explicitly called out."
+  },
+  {
+   "section": "Sockliner",
+   "partName": "SOCKLINER TOP CLOTH",
+   "material": "Brushed poly top cloth",
+   "supplier": "TBD — sourcing",
+   "color": "Black",
+   "aiSuggested": true,
+   "comments": "Inferred."
+  },
+  {
+   "section": "Packaging",
+   "partName": "TOE STUFFING",
+   "material": "Recycled tissue stuffing",
+   "supplier": "Factory in-house",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Standard packaging."
+  },
+  {
+   "section": "Packaging",
+   "partName": "TISSUE PAPER",
+   "material": "Wrapping tissue",
+   "supplier": "Factory in-house",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Standard packaging."
+  },
+  {
+   "section": "Packaging",
+   "partName": "C/O LABEL",
+   "material": "Country-of-origin / size label",
+   "supplier": "Factory in-house",
+   "color": "White",
+   "aiSuggested": true,
+   "comments": "Standard packaging."
+  },
+  {
+   "section": "Packaging",
+   "partName": "INNER BOX",
+   "material": "Corrugated shoe box",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Standard packaging."
+  },
+  {
+   "section": "Packaging",
+   "partName": "OUTER CARTON",
+   "material": "Corrugated master carton",
+   "supplier": "TBD — sourcing",
+   "color": "Natural",
+   "aiSuggested": true,
+   "comments": "Standard packaging."
+  }
+ ],
+ "tooling": [
+  {
+   "section": "Outsole Tooling",
+   "description": "Injected TPU cleated plate mold (material AZZ439)",
+   "toolCode": "TBD",
+   "supplier": "Evertech",
+   "state": "New"
+  },
+  {
+   "section": "Outsole Tooling",
+   "description": "Molded rubber detail pod mold (see Details page)",
+   "toolCode": "TBD",
+   "supplier": "TBD",
+   "state": "New"
+  },
+  {
+   "section": "Midsole Tooling",
+   "description": "Drop-in midsole mold",
+   "toolCode": "TBD",
+   "supplier": "FT",
+   "state": "New"
+  },
+  {
+   "section": "Upper Tooling",
+   "description": "Last — X3208H-Core",
+   "toolCode": "X3208H-Core",
+   "supplier": "TBD",
+   "state": "Carryover"
+  },
+  {
+   "section": "Upper Tooling",
+   "description": "HF-weld die for TPU swoosh (lateral/medial)",
+   "toolCode": "TBD",
+   "supplier": "TBD",
+   "state": "New"
+  },
+  {
+   "section": "Upper Tooling",
+   "description": "Cutting die — Hirun D synthetic reinforcements",
+   "toolCode": "TBD",
+   "supplier": "TBD",
+   "state": "New"
+  },
+  {
+   "section": "Upper Tooling",
+   "description": "Cutting die — hologram tapes (6mm + film details)",
+   "toolCode": "TBD",
+   "supplier": "TBD",
+   "state": "New"
+  },
+  {
+   "section": "Upper Tooling",
+   "description": "Screenprint screens — ALPHA graphic + heel tab",
+   "toolCode": "TBD",
+   "supplier": "TBD",
+   "state": "New"
+  }
+ ],
+ "assumptions": [
+  {
+   "assumption": "Center-seam construction requires a seam reinforcement tape down the center seam.",
+   "basis": "Construction note: 'Flyknit bootie upper, center-seam construction.'"
+  },
+  {
+   "assumption": "HF-weld TPU swoosh needs a low-temp hot-melt backer/lamination to bond cleanly to Flyknit.",
+   "basis": "Callout [4] HF weld TPU on knit substrate — construction norm."
+  },
+  {
+   "assumption": "Collar foam + collar lining package added for bootie collar comfort.",
+   "basis": "Bootie collar / inner sleeve callout [3] — comfort package not drawn."
+  },
+  {
+   "assumption": "Heel counter and toe stiffener added for structure of the lasted bootie.",
+   "basis": "Last-based lasted bootie construction norm; not on design board."
+  },
+  {
+   "assumption": "Hot-melt backer added under Baiksan Hirun D reinforcements for bonding.",
+   "basis": "Callouts [9]/[10] synthetic reinforcements bonded to upper."
+  },
+  {
+   "assumption": "Strobel board added to close the bootie bottom to seat the drop-in midsole.",
+   "basis": "Construction: 'Drop-in midsole seats into the lasted bootie.'"
+  },
+  {
+   "assumption": "Sockliner + top cloth added as standard interface inside the drop-in.",
+   "basis": "No explicit sockliner callout; standard for drop-in midsole builds."
+  },
+  {
+   "assumption": "Plate-to-bootie cement system and drop-in top cloth assumed for bottom-unit attach.",
+   "basis": "Construction: injected plate attached to bottom unit; FT confirm interface."
+  },
+  {
+   "assumption": "Heel pull tab material assumed woven/webbing with screen graphic.",
+   "basis": "Branding: 'Littlefoot tab, screen graphic' — material not specified."
+  },
+  {
+   "assumption": "Cord-release Littlefoot triangle mark assumed HF-weld TPU film.",
+   "basis": "Branding callout; application method not specified."
+  },
+  {
+   "assumption": "Standard packaging set (stuffing, tissue, C/O label, inner box, outer carton) included.",
+   "basis": "Always present; not on design board."
+  }
+ ],
+ "openQuestions": [
+  "Resolve rip-stop TPU shroud [2] to a single spec among OPT.1 Sukyoung SSF TPU TEX-1, OPT.2 Sambu Jeno M-TEX bond, OPT.3 Suk Young Nemo + Duragon bond.",
+  "Resolve bootie collar/inner sleeve [3] — Flyknit (OPT.1) vs Dongjin DJT-6242 Veletta Span CDP (OPT.2).",
+  "Confirm plate material AZZ439 with Evertech.",
+  "Confirm drop-in midsole interface and attach method at FT.",
+  "Specify drop-in midsole foam durometer/density — not stated.",
+  "Confirm Littlefoot stretch cable/cord spec — currently 'as per current proto'.",
+  "Confirm final laminated cable pad construction — currently 'as per pullovers for first proto'.",
+  "Confirm Flyknit pullover material spec to be carried for production vs proto.",
+  "Confirm hologram film/tape vendor (Duragon Stretch named as material, vendor not stated).",
+  "Confirm molded rubber detail spec, hardness, and placement from Details page.",
+  "Confirm heel counter and toe stiffener specs/thickness for cleated football build.",
+  "Confirm sockliner spec — material, thickness, top cloth.",
+  "Confirm screenprint ink system and placements per External page.",
+  "Confirm color breakdown for lead colorway Black/White/Iron Grey on each visible part."
+ ],
+ "pfc": "## 1. Lamination\nPre-bond films and backers to face materials before cutting; web temps/dwell set by factory.\n1. Laminate SWOOSH BACKER / LAMINATION hot-melt film to the back of the San Fang Smiley-Cygni 1.0mm TPU swoosh stock at [factory: temp/time/pressure].\n2. Laminate REINFORCEMENT BACKER (HIRUN D ZONES) hot-melt film to Baiksan Hirun D .09mm reinforcement sheet (lateral + medial).\n3. [+] Laminate RIP-STOP TPU SHROUD (SSF TPU TEX-1, foil + coating) to a low-temp carrier film for dimensional stability before cutting.\n4. Roll-cool and rest laminated panels flat before die cutting to prevent curl.\n\n## 2. Cutting — Die Schedule\nDie-cut all sheet/film components; cutting pressure and die clearance by factory.\n1. Cut SYNTHETIC REINFORCEMENT (LATERAL) and (MEDIAL) from backed Baiksan Hirun D using the Hirun D cutting die.\n2. Cut SWOOSH (LATERAL) and (MEDIAL) blanks from backed Smiley-Cygni TPU.\n3. Cut HOLOGRAM FILM DETAIL, HOLOGRAM TAPE, and HOLOGRAM TAPE 6MM (LATERAL/MEDIAL) from Duragon Stretch .23mm using the hologram tape dies.\n4. Cut RIP-STOP TPU SHROUD throat panel.\n5. [+] Cut CENTER-SEAM REINFORCEMENT TAPE to length for the bootie center seam.\n6. Cut STROBEL BOARD and COLLAR LINING blanks at [factory: die clearance].\n\n## 3. Skiving & Perforation\nEdge-prep bonded parts for clean overlays; skive depths by factory.\n1. Skive perimeter of SWOOSH (lateral/medial) blanks for flush bonding to Flyknit.\n2. Skive edges of SYNTHETIC REINFORCEMENT (lateral/medial) at overlap zones.\n3. [+] Skive RIP-STOP TPU SHROUD bonding margins where it overlaps the Flyknit throat.\n\n## 4. Logo, Screen Print & HF Welding\nApply graphics and weld TPU parts to Flyknit; all heat steps factory-tuned.\n1. Screenprint ALPHA SCREENPRINT (LATERAL) and (MEDIAL) onto Flyknit quarters; cure at [factory: temp/time].\n2. Screenprint HEEL PULL TAB graphic on woven tab stock.\n3. HF-weld SWOOSH (LATERAL) and (MEDIAL) to the Flyknit upper using the HF-weld swoosh die at [factory: temp/time/pressure].\n4. HF-weld CORD-RELEASE LOGO (Littlefoot triangle) at the cable release position.\n5. Heat-apply HOLOGRAM TAPE, 6MM tapes, and HOLOGRAM FILM DETAIL to designated lateral/medial placements.\n\n## 5. Computer Stitching\nEmbroider/stitch programmed reinforcements onto flat upper; stitch density by factory.\n1. Stitch SYNTHETIC REINFORCEMENT (lateral/medial) to Flyknit at high-wear zones.\n2. Stitch LAMINATED CABLE PADS channels per Littlefoot (Alpha 4) cable routing.\n3. [+] Tack LITTLEFOOT LACE CABLE and STRETCH CORD (SECONDARY) guide loops at programmed coordinates.\n\n## 6. Upper Assembly & Strobel Close\nBuild the Flyknit bootie, close center seam, attach collar and structure.\n1. Join the center-seam Flyknit upper and reinforce with CENTER-SEAM REINFORCEMENT TAPE via hot-melt.\n2. Assemble BOOTIE COLLAR / INNER SLEEVE (Flyknit) with COLLAR FOAM and COLLAR LINING.\n3. Attach HEEL PULL TAB at heel center.\n4. Insert TOE STIFFENER and HEEL COUNTER; activate at [factory: temp/time].\n5. Attach LASTING / GUSSET TAPE around the lasting margin.\n6. Strobel-stitch STROBEL BOARD to the bootie bottom to close the sock for the drop-in midsole seat.\n7. Route LITTLEFOOT LACE CABLE through the Alpha 4 mechanism and verify cable release function.\n\n## 7. Plate Injection (Outside Vendor)\nInjected TPU cleated plate produced at Evertech; mold parameters by vendor.\n1. Inject OUTSOLE PLATE (CLEATED) in AZZ439 TPU at Evertech using the new cleated plate mold at [factory: melt temp/cycle].\n2. De-flash, trim sprue, and inspect cleat geometry against last X3208H-Core bottom.\n3. [+] Confirm AZZ439 material certification and plate hardness with Evertech before lot release.\n\n## 8. EVA / Phylon Midsole\nNew drop-in midsole molded at FT; durometer and density by factory.\n1. Mold DROP-IN MIDSOLE foam at [factory: durometer/density].\n2. Laminate DROP-IN MIDSOLE TOP CLOTH to the foam top surface.\n3. Trim drop-in perimeter to seat into the lasted bootie cavity.\n\n## 9. Stockfitting (Midsole → Outsole)\nBond detail pods to the plate to form the bottom unit; cement system factory-set.\n1. Buff/prime OUTSOLE PLATE (CLEATED) bonding surfaces.\n2. Cement and press MOLDED RUBBER DETAIL PODS to the plate at [factory: cement/press time].\n3. Inspect bottom unit for pod adhesion and flash.\n\n## 10. Sockliner\nBuild the drop-in sockliner; foam spec by factory.\n1. Mold SOCKLINER / INSOLE in EVA.\n2. Laminate SOCKLINER TOP CLOTH to the sockliner.\n3. Die-cut and emboss size/logo as required.\n\n## 11. Assembly — Lasting & Bottom Attach\nLast the bootie and attach the bottom unit; activation and press by factory.\n1. Slip the closed Flyknit bootie onto last X3208H-Core.\n2. Heat-set the upper and shape toe/heel at [factory: temp/time].\n3. Seat the DROP-IN MIDSOLE into the lasted bootie.\n4. Apply PLATE-TO-BOOTIE CEMENT and primer to mating surfaces of the bottom unit and lasted bootie.\n5. Position bottom unit, press, and chill-set.\n\n## 12. Cleated Toe Spring & QC\nVerify cleat orientation, toe spring, and bond integrity.\n1. Verify toe spring and cleat plane against last spec.\n2. Pull-test plate-to-bootie bond and swoosh weld adhesion.\n3. Function-check LITTLEFOOT LACE CABLE tension and release; insert SOCKLINER.\n4. Final clean, lace, and visual QC against lead colorway (Black/White/Iron Grey).\n\n## 13. Packing\nStuff, wrap, label, and carton per standard.\n1. Insert TOE STUFFING and wrap with TISSUE PAPER.\n2. Apply C/O LABEL with size/country data.\n3. Box pair in INNER BOX.\n4. Pack into OUTER CARTON per [factory: pack ratio/qty]."
+}
